@@ -1,0 +1,24 @@
+.imgstyl{
+    width: 100%;
+    padding-left: 55px;
+    padding-right: 60px;
+    height: 83%;
+}
+.allabout {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 28px;
+    margin-left: -15px;
+}
+.stylabout{
+    /* position: relative;
+    top: -47px; */
+    /* margin-top: -31px; */
+    margin-top: -31px;
+    width: 50%;
+    padding: 0px;
+    position: relative;
+    left: 70px;
+    padding-left: 4px;
+
+}

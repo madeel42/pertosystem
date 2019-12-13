@@ -1,0 +1,11 @@
+.form-control{
+    width: 76%;
+}
+.row{
+    padding: 11px;
+}
+.btn1{
+    background-color: blue !important;
+    position: relative !important;
+    left: 7px !important;
+}

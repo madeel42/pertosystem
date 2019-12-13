@@ -1,0 +1,120 @@
+
+.animaStyl{
+    /* background-color: hotpink;
+    margin-top: -369px;
+    width: 98px;
+    margin-left: 433px; */
+    position: absolute;
+    top: 106px;
+    right: 100px;
+    box-sizing: border-box;
+    /* background-color: royalblue; */
+}
+.petropumpimgstyl{
+width: 100%;
+height: 527px;
+box-shadow: 12px 0px 22px 2px grey;
+}
+.petroimg1{
+    background-image: url('./../../assets/petrostation.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+/* box-shadow: 12px 0px 22px 2px grey; */
+    background-size: 100% 100%;
+}
+.petroimg2{
+  background-image: url('./../../assets/GasboyInteractiveScene_o.jpg');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+/* box-shadow: 12px 0px 22px 2px grey; */
+  background-size: 100% 100%;
+}
+.petroimg3{
+  background-image: url('./../../assets/Petro-pump-cam.jpg');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+/* box-shadow: 12px 0px 22px 2px grey; */
+  background-size: 100% 100%;
+}
+.animtioncustmized{
+height: 400px;
+}
+.animaimg1{
+    width:100px;
+    top:260px;
+    left: 640px;
+    position: relative
+}
+
+  
+  .slide button {
+    transition: all 0.3s ease;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+    opacity: 0;
+  }
+
+/* /////////////////////////////////////////////slick css */
+.slick-slide img{
+  width:100% !important;
+  height: 445px !important;
+}
+button {
+  -webkit-appearance: none;
+          appearance: none;
+  -webkit-filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.1));
+          filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.1));
+  -webkit-transition: all .5s ease;
+         filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.1));
+  -webkit-transition: all .5s ease;
+          transition: all .5s ease;
+  border: none;
+  background: #FFD800;
+  border-radius: 30px;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  padding: 15px 40px;
+  font-weight: 400;
+  font-size: 13px;
+  cursor: cursor;
+}
+
+button:hover {
+  color: #FFFFFF;
+  background: #222222;
+  -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.2));
+          filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.2));
+}
+.slick-prev{
+  display: block;
+    background-color: red;
+    left: 9px;
+    z-index: 1;
+}
+.slick-next{
+  display: block;
+    background-color: red;
+    right: 6px;
+    z-index: 1;
+}
+.petroimg1styl{
+  position: relative;
+    top: 139px;
+  
+}
+.petroimg1styl{
+  width: 100%;
+    /* height: auto; */
+    top: 0;
+}
+.circlestyl{
+  position: absolute;
+  left: 436px;
+  top: 91px;
+  z-index: 1;
+  width: 52px;
+  background-size: 100% auto !important;
+}

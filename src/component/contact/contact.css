@@ -1,0 +1,20 @@
+.contact_imgstyl{
+    display: flex;
+    /* -ms-flex-direction: column; */
+    flex-flow: row wrap;
+    padding:48px;
+    padding-bottom: 23px;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 20px;
+}
+.pading{
+    padding-bottom: 16px;
+    width: 162px;
+    cursor: pointer;
+}
+/* .contentimgstyl{
+     width: 100% !important;
+    /* height: 589px; */
+    /* position: relative; */
+/* } */ 
